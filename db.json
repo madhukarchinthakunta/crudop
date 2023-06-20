@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "firstName": "Miles",
+      "age": "48",
+      "gender": "male",
+      "email": "yraigatt3@nature.com",
+      "phone": "919705127389",
+      "id": 4
+    },
+    {
+      "firstName": "Mavis",
+      "age": 38,
+      "gender": "feamle",
+      "email": "kmeus4@upenn.edu",
+      "phone": "9705127358",
+      "id": 5
+    },
+    {
+      "firstName": "Madhukar",
+      "lastName": "Chinthakunta",
+      "age": "26",
+      "gender": "Male",
+      "email": "madhukar@gmail.com",
+      "phone": "919705127357",
+      "id": 6
+    },
+    {
+      "firstName": "Venky",
+      "age": "24",
+      "gender": "male",
+      "email": "venkytesh@gmail.com",
+      "phone": "7893823456",
+      "id": 7
+    },
+    {
+      "firstName": "madhu",
+      "age": "25",
+      "gender": "",
+      "email": "Madhu@gmail.com",
+      "phone": "8309154937",
+      "id": 9
+    }
+  ]
+}
